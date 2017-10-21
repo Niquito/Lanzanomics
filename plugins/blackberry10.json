@@ -1,0 +1,33 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "www/config.xml": {
+                "parents": {
+                    "/widget": [
+                        {
+                            "xml": "<feature name=\"com.blackberry.invoke\" value=\"com.blackberry.invoke\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"com.blackberry.app\" value=\"com.blackberry.app\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.blackberry.invoke": {
+            "PACKAGE_NAME": "Virtonomics"
+        },
+        "com.blackberry.app": {
+            "PACKAGE_NAME": "Virtonomics"
+        }
+    },
+    "dependent_plugins": {}
+}

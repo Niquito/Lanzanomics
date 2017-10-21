@@ -1,0 +1,12 @@
+<widget id="Virtonomics" 
+  xmlns="http://www.w3.org/ns/widgets" 
+  xmlns:cdv="http://cordova.apache.org/ns/1.0" version="0.0.1">
+  <name>Virtonomics</name>
+  <description>App personal para acceso directo a Virtonomics</description>
+  <license href="MIT"/>
+  <content src="index.html"/>
+  <access origin="*"/>
+  <icon src="img/logoVirtonomics.png"/>
+  <rim:splash src="img/Splash.png"/>
+  <author email="ncaffarini@gmail.com" href="https://github.com/Niquito">Niquito</author>
+</widget>

@@ -1,0 +1,28 @@
+-package
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/device/bb10app.bar
+-barVersion
+1.5
+-C
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src
+bar-descriptor.xml
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/config.xml
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/cordova.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/cordova_plugins.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/index.html
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/wwe
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/chrome/frameworkModules.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/chrome/index.html
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/chrome/require.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/chrome/ui.html
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/chrome/lib/exception.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/chrome/lib/utils.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/css/index.css
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/img/Splash.png
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/img/logo.png
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/img/logo2_en.png
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/img/logoVirtonomics.png
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/js/index.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/plugins/com.blackberry.app/www/client.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/plugins/com.blackberry.invoke/www/btoa.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/plugins/com.blackberry.invoke/www/client.js
+/home/niqq/WebWorks Projects/Virtonomics/platforms/blackberry10/build/src/plugins/jnext/auth.txt
