@@ -60,6 +60,8 @@ var app = {
 
         console.log('Received Event: ' + id);
         openWebLink();
-        blackberry.app.exit();
+        setTimeout(function(){ 
+            blackberry.app.exit();
+        }, 3000);
     }
 };
